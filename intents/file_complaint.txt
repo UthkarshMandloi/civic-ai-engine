@@ -1,0 +1,19 @@
+file
+new
+complaint
+issue
+problem
+report
+broken
+not working
+leakage
+shortage
+overflow
+pothole
+garbage
+light
+power
+water
+sewage
+drain
+road
