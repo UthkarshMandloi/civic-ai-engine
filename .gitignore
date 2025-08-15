@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Ignore the LARGE test dataset, but not the small training one.
+real_complaints.csv
+
+# Ignore generated reports
+*.png
+
+# Environment variables (secrets)
+.env
